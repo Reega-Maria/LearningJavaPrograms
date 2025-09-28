@@ -1,6 +1,6 @@
 package ex_01_Java_Basics;
 
-public class Lab004_MultiComments {
+public class Lab006_MultiComments {
     /**
      * Author : Reega Maria
      * Learning :  Java
