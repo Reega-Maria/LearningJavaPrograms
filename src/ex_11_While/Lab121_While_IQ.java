@@ -37,5 +37,5 @@ public class Lab121_While_IQ {
             }
 
         }
-    }
+}
 
