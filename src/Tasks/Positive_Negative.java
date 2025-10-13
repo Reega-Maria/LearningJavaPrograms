@@ -9,7 +9,7 @@ public class Positive_Negative {
             String result=(num>0)?"Positive"
                            :(num==0)?"Zero"
                             :"Negative";
-            System.out.println("The number is :1" +result);
+            System.out.println("The number is :" +result);
 }
 }
 
