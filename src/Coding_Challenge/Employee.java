@@ -1,4 +1,8 @@
 package Coding_Challenge;
+
+//Implement encapsulation in a class "Employee" with private attributes "id", "name", and "salary".
+// Add getter and setter methods.
+
 public class Employee {
     // Private Attributes (Encapsulation)
     private int id;
